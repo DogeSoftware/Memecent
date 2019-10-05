@@ -1,0 +1,25 @@
+{
+  "name": "memecent",
+  "version": "1.0.0",
+  "description": "A decentralized meme sharing app, based on IPFS.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DogeSoftware/Memecent.git"
+  },
+  "keywords": [
+    "decentralized"
+  ],
+  "author": "d3nk",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/DogeSoftware/Memecent/issues"
+  },
+  "homepage": "https://github.com/DogeSoftware/Memecent#readme",
+  "devDependencies": {
+    "electron": "^6.0.11"
+  }
+}
